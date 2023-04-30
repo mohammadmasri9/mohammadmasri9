@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+    
+*{
+	padding: 0;
+	margin:0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+
+}
+
+
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	margin-right: 30px;
+	margin-top: 14px;
+}
+nav a {
+	font-size: 13px;
+	display: inline-block;
+	line-height: 24px;
+	font-weight: 400;
+	color: black;
+	cursor: pointer;
+	padding: 5px 6.7px
+}
+
+nav img {
+	width: 34px;
+	padding: 5px;
+	margin: auto 7px;
+	cursor: pointer;
+}
+
+nav button {
+	border: 1px solid white;
+	font-weight: bold;
+	
+	background: blue;
+	color: #fff;
+	padding: 7px 12px;
+	border-radius: 3px;
+	margin-left: 7px;
+	cursor: pointer;
+}
+
+.section-1 .logo {
+	display: block;
+	margin: 0px auto;
+	margin-top: 107px;
+	
+	
+	
+}
+.s-box {
+	width: 580px;
+	margin: 0px auto;
+	position: relative;
+	margin-top: -8px;
+	text-align: center;
+}
+.s-box .s-input {
+	display: block;
+	border: 1px solid #ddd;
+	color: white;
+	font-size: 16px;
+	padding: 13px;
+	padding-left: 45px;
+	border-radius: 25px;
+	width: 100%;
+	transition: box-shadow 100ms;
+	outline: none;
+}
+
+.s-box .search-icon {
+	width: 20px;
+	opacity: .4;
+	position: absolute;
+	top: 13px;
+	left: 14px;
+}
+.s-box .vs-icon {
+	width: 14px;
+	position: absolute;
+	top: 13px;
+	right: 24px;
+}
+
+
+    
+
+</style>
+	<title>Google</title>
+	<link rel="icon"  href="favicon.ico" id="icon">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+      <nav>
+      	<a href="https://accounts.google.com/v3/signin/confirmidentifier?dsh=S553865720%3A1673778280364360&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&emr=1&ltmpl=default&ltmplcache=2&osid=1&passive=true&rm=false&scc=1&service=mail&ss=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4bvC-tPxpN6R3pwwnzEIEHl2FMjKqh3EtIfQYPgH4h4uh30ycTW-VuCu5wIISreqLjqOEphg">Gmail</a>
+      	<a href="https://images.google.com/">Images</a>
+      	<img src="https://vectorified.com/images/google-menu-icon-5.png">
+      	<button>Sign in</button>
+      </nav>
+      <section class="section-1">
+      
+      	<img src="https://www.wpuniversity.com/wp-content/uploads/2014/02/google-featured.jpg" class="logo" height=300 width=600 >
+      	
+      	<form><br><br>
+      		<div class="s-box">
+      			<img src="https://tse2.mm.bing.net/th?id=OIP.-9A-FOvJIk9-zy2b0vofXAHaHX&pid=Api&P=0" class="search-icon">
+      			<input type="text" class="s-input">
+      			<hr><img src="https://tse3.mm.bing.net/th?id=OIP.3TSWUgSWjx-ehbLqf5-e5wHaJF&pid=Api&P=0" class="vs-icon">
+      			<input type="submit" class="s-btn" value="Google Search" >
+      			<input type="submit" class="s-btn" value="I'm Feeling Lucky" >
+      		</div>
+      	</form>
+      	
+      </section>
+    
+     
+</body>
+</html>
