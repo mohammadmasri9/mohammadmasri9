@@ -1,0 +1,91 @@
+let theName : string = "MASRI";
+let theAge : number= 19;
+let hire : boolean= true ;
+let all:any= "ooredoo";
+
+all =100 ;
+function add(n1 :number ,n2:number){ // function
+    return n1+n2;
+}
+
+console.log(add(10 ,20));
+console.log(typeof(add(10 ,20)));
+
+let many : string | number | boolean ; //multible datatype in the same variable 
+many = "masri";
+many = 5;
+many = false ;
+
+
+let myFrinds = ["abed","aysar", "Som3a",10 ]; // any type can put on it multible data type without declarating 
+for (let i=0 ; i > myFrinds.length; i++){//for loob to  print the array values 
+    console.log(myFrinds[i]);
+    
+
+}
+
+
+let arrayOne : number[] = [1,2,3,4,5] // array type number 
+let arrayTwo : String[]= ["one","two","three"]; //array type string 
+let arrayThree : (String | number )[]= [1,2,3,4,"one","two","three"]; // multible datatypes of array / (the sum of the booth );
+
+
+
+let arrayFour : (String | number | string[] | boolean[])[]= [1,2,3,4,"one","two","three" ,["A","B"], [true , false ]]; // nested array with nested(Multiple ) declarate  
+// -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+let showMsg : boolean = true;
+function ShowDetails(name : string, age : number ,salary:number ){
+if(showMsg){
+    return "Hello My Name is "+name +" and i have " + age + " years old "+" my salry = "+salary;
+}
+return " no data to show "
+}
+
+console.log(ShowDetails("Masri",19,4500));
+
+
+
+function Show(name : string, age : number ,salary:number , Adress?: string){ // ? mean i can write it and assifhn a value for the parameters or no as i want !
+
+    return "Hello My Name is "+name +" and i have " + age + " years old "+" my salry = "+salary;
+
+
+}
+console.log(Show("Masri",19,411)) // here i dont give the adress parameter a value due to i out as optinal par (?) .
+
+// another idea the optional parameter should be at the last (last one )!!
+
+
+//---------------------------------------------------------------------------------------------------------------------------
+
+// DATA TYPES / Advanced 
+
+
+// we can generate a declaration value by method (type)
+type st =string ;
+let name22 : st = "khalid";
+type StandNum = string | number ; 
+
+let age : StandNum ;
+age = "twenty";
+age =20 ;
+
+// // advanced typeindex.js= alias 
+// type Buttons {'
+//  up : string ,
+// down : string ,
+// right : string ,
+// left : string 
+   
+
+// } 
+// function getActions(btn : Buttons){
+//     console.log('Acrion for buton up is '+btn.up);
+//     console.log('Acrion for buton down is '+btn.down);
+
+//     console.log('Acrion for buton right is '+btn.right);
+//     console.log('Acrion for buton left is '+btn.left);
+
+// }
