@@ -1,92 +1,129 @@
-# 👋 Hi there! I'm Mohammed Al Masri
+# 👋 Hi, I'm Mohammed Al Masri
 
-🎓 Information Technology student passionate about **full-stack development**, **mobile applications**, and **cybersecurity**. I thrive in environments where I can solve problems, build modern applications, and continuously learn new technologies.
-
----
-
-## 💼 About Me
-
-- 📍 Based in **Bethlehem**, currently broadening my global experience as an **Exchange Student at Mälardalen University (Sweden)**.
-- 👨‍💻 **Software Developer Intern at Ooredoo** — Working on full-stack web & mobile projects using **React**, **Django**, **Flutter**, and more.
-- 🚀 Interested in **web security**, **UX/UI design**, and **building impactful user experiences**.
-- 🌐 Always exploring new tech in the fields of **cybersecurity**, **IoT**, and **machine learning**.
+🎓 Information Technology student passionate about **Full-Stack Development, Cybersecurity, and Data Science**.  
+💻 I thrive on building secure, scalable, and impactful digital solutions — from enterprise web systems to mobile applications and AI-powered tools.
 
 ---
 
-## 🛠️ Skills
+## 💡 About Me
 
-| Frontend        | Backend         | Mobile             | Tools & Tech         | Soft Skills              |
-|----------------|----------------|--------------------|----------------------|--------------------------|
-| HTML / CSS     | Django          | React Native       | Git / GitHub         | Team Leadership          |
-| JavaScript     | Java / Python   | Flutter            | VS Code              | Professional Communication |
-| React          | Web Security    | Android (basic)    | Canva / Webflow      | Problem Solving          |
-| UX/UI Design   | API Integration |                    |                      | Teamwork                 |
+- 📍 Based in **Bethlehem, Palestine**
+- 🌍 Former **Exchange Student – Mälardalen University, Sweden**
+- 👨‍💻 Multi-track experience: **Full-Stack Development | Technical Support | Data Science**
+- 🚀 Passionate about **Web Security, AI, Smart Systems & UX/UI**
+- 🔍 Constantly learning and contributing to real-world projects
 
 ---
 
-## 📚 Education
+## 🔧 Tech Stack
 
-**🎓 Bachelor of Information Technology**  
-Al-Quds University, 2022 - Present
+### 🖥️ Frontend
+HTML • CSS • JavaScript • React • Responsive UI • UX/UI Design
 
-**🌍 Exchange Semester in Computer Science**  
-Mälardalen University, Sweden, Aug 2024 - Jan 2025
+### ⚙️ Backend
+MERN Stack (MongoDB, Express.js, React, Node.js) • Django • REST APIs • Web Security • Java • Python
 
-**🎓 High School Diploma**  
-Dar Al-Kalima Lutheran School, 2021
+### 📱 Mobile Development
+React Native • Flutter • Android (basics)
+
+### 🛠️ Tools & Platforms
+Git • GitHub • VS Code • Figma • Canva • Webflow • Linux • Ticketing Systems
+
+### 🤝 Soft Skills
+Leadership • Communication • Problem Solving • Collaboration • Professional Ethics
+
+---
+
+## 🎓 Education
+
+**Bachelor of Information Technology**  
+Al-Quds University (2022 – Present)
+
+**Exchange Semester – Computer Science**  
+Mälardalen University, Sweden (Aug 2024 – Jan 2025)
+
+**High School Diploma**  
+Dar Al-Kalima Lutheran School (2021)
 
 ---
 
 ## 💼 Experience
 
-**🧑‍💻 Software Developer Intern**  
-_Ooredoo, Ramallah_  
-📆 Jun 2023 – Present  
-- Built web pages using **HTML, CSS, JS**, and frameworks like **Django** and **React**
-- Developed **mobile apps** with **React Native** and **Flutter**
-- Collaborated with the full-stack team and contributed to an **asset management system**
-- Provided **technical support & helpdesk solutions**
+### 🧠 Data Science Trainee  
+**Ooredoo Palestine** | Jun 2025 – Present | Ramallah | On-Site  
+- Worked on **AI-powered tools** and **data-driven solutions** to support enterprise decisions  
+- Contributed to internal analytics initiatives supporting **strategic business goals**  
+- Focused on **Data Analysis**, **Machine Learning**, and applied AI
 
-**💻 Front-End Developer**  
-_Buthor Company, Hebron_  
-📆 Dec 2022 – Mar 2023  
+---
+
+### 🛠️ Help Desk & Technical Support Trainee  
+**Ooredoo Palestine** | May 2024 – Sep 2024 | Ramallah | On-Site  
+- Provided **technical support** for staff & end-users (hardware, software, network issues)
+- Handled issues through **ticketing systems**
+- Supported IT operations and troubleshooting across multiple environments
+
+---
+
+### 💻 Full-Stack Development Intern  
+**Ooredoo Palestine** | Jun 2023 – Mar 2024 | Ramallah | On-Site  
+- Trained and worked as **Full Stack Developer (MERN Stack)**
+- Developed enterprise web solutions using **MongoDB, Express.js, React, Node.js**
+- Contributed to internal digital transformation systems
+- Built structured, secure, and scalable applications
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **Create Desktop & Mobile-friendly Pages** – *Canva*
-- ✅ **Create No-Code Responsive Sites** – *Webflow*
-- ✅ **Microsoft PowerPoint Essentials**
-- ✅ **Resume & Cover Letter Design with Word**
+### 🏆 IBM Certifications
+- **IBM Z Day 2025 – AI & Data**
+- **IBM Z Day 2025 – Security**
+
+### 🛡️ Cybersecurity & Engineering
+- **Bug Bounty & Cybersecurity Bootcamp** — SED
+- **Software Engineering & Ethics of Coding** — SED
+
+### 🌐 Additional Certifications
+- Canva – Create Desktop & Mobile Friendly Pages  
+- Webflow – Build No-Code Responsive Websites  
+- Microsoft PowerPoint Essentials  
+- Resume & Professional Cover Letter Writing
 
 ---
 
-## 🎓 Courses & Workshops
+## 🧠 Courses & Workshops
 
-- Professional Communication in English  
-- Teamwork & Leadership  
 - Cybersecurity Fundamentals  
+- Web & Data Security  
 - Mobile App Development  
-- IoT and Machine Learning  
-- Web & Data Security
+- IoT & Machine Learning  
+- Teamwork & Leadership  
+- Professional Communication
 
 ---
 
 ## 🌍 Languages
 
-- 🇺🇸 English — Fluent  
-- 🇵🇸 Arabic — Native  
-- 🇩🇪 German — Beginner  
+🇵🇸 Arabic — Native  
+🇺🇸 English — Fluent  
+🇩🇪 German — Beginner
+
+---
+
+## 📈 GitHub Highlights
+![Profile views](https://komarev.com/ghpvc/?username=mohammad-al-masri&color=red)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-al-masri&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-masri&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-almasri-5b606525a)  
-📧 Mohammadmasri349@gmail.com  
-📱 +972-592-621-821
+📧 **Mohammadmasri349@gmail.com**  
+📱 **+972-592-621-821**
 
 ---
 
-> 🚀 "Building secure, scalable, and smart applications for the future — one line of code at a time."
+> 🚀 *“Building secure, scalable, and intelligent systems — one line of code at a time.”*
