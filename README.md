@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Mohammed Al Masri 👋
+# Mohammed Al Masri 👋  
 
-### 🚀 Full-Stack Developer | Data Scientist | Cybersecurity Enthusiast
+### 🚀 Full-Stack Developer • Data Science Trainee • Cybersecurity Enthusiast  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-almasri-5b606525a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammadmasri349@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-almasri-5b606525a)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammadmasri349@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/972592621821)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-al-masri)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-al-masri&color=0e75b6&style=flat)
 
@@ -16,141 +19,172 @@
 
 ## 👨‍💻 About Me
 
-Information Technology student at **Al-Quds University** with international experience from **Mälardalen University, Sweden**. Currently working as a **Data Science Trainee at Ooredoo Palestine**, building AI-powered solutions and enterprise-grade applications.
+Motivated Information Technology student at **Al-Quds University** with international academic experience from **Mälardalen University, Sweden** .  
+Currently a **Data Science Trainee at Ooredoo Palestine**, working on AI-powered and data-driven solutions that support enterprise decision-making.  
 
-- 🌍 Based in **Bethlehem, Palestine**
-- 🎓 Dual focus: **Computer Science** & **Business Analytics**
-- 💼 Experience across **Full-Stack Development**, **Technical Support**, and **Data Science**
-- 🔐 Deep interest in **Web Security**, **AI/ML**, and **Smart Systems**
-- 🌱 Currently mastering **Machine Learning**, **Advanced Cybersecurity**, and **Cloud Infrastructure**
+- 🌍 Based in **Bethlehem, Palestine**  
+- 💼 Multi-track experience: **Full-Stack Development**, **Technical Support**, **Data Science**  
+- 🔐 Passionate about **Web Security**, **Applied Machine Learning**, **Smart Systems**, and **UX/UI**  
+- 📚 Constantly growing in **ML**, **cybersecurity practices**, and **cloud & DevOps**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Data Science & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### 🧠 Data Science Trainee
-**Ooredoo Palestine** • *Jun 2025 – Present*  
-`Ramallah, Palestine`
-- Developing AI-powered analytics tools for enterprise decision-making
-- Building machine learning models for business intelligence
-- Contributing to data-driven strategic initiatives
-
-### 🛠️ Help Desk & Technical Support Trainee
-**Ooredoo Palestine** • *May 2024 – Sep 2024*  
-`Ramallah, Palestine`
-- Delivered technical support across hardware, software, and network infrastructure
-- Managed incident resolution through enterprise ticketing systems
-- Supported IT operations and cross-functional troubleshooting
-
-### 💻 Full-Stack Development Intern
-**Ooredoo Palestine** • *Jun 2023 – Mar 2024*  
-`Ramallah, Palestine`
-- Built scalable web applications using MERN Stack
-- Developed internal digital transformation systems
-- Implemented secure, enterprise-grade solutions
-
----
-
-## 🎓 Education
-
-**🎓 Bachelor of Information Technology**  
-*Al-Quds University* • 2022 – Present
-
-**🌍 Exchange Program – Computer Science**  
-*Mälardalen University, Sweden* • Aug 2024 – Jan 2025
-
----
-
-## 🏆 Certifications
-
-### IBM Professional Badges
-![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) **IBM Z Day 2025** – AI & Data  
-![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) **IBM Z Day 2025** – Security
-
-### Cybersecurity & Development
-- 🛡️ **Bug Bounty & Cybersecurity Bootcamp** — SED
-- 💻 **Software Engineering & Ethics of Coding** — SED
-- 🎨 **Canva Desktop & Mobile Page Design**
-- 🌐 **Webflow No-Code Development**
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-al-masri&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-masri&layout=compact&theme=radical&hide_border=true)
+### 🧾 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammad-al-masri&theme=radical&hide_border=true)
+### 🎨 Frontend & UI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" height="45" alt="Material UI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45" alt="Sass"/>
+</p>
+
+### 🧩 Backend & APIs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL"/>
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+</p>
+
+### 📊 Data Science, ML & AI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+</p>
+
+### ☁️ DevOps, Cloud & Infrastructure
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+</p>
+
+### 🔐 Security & Testing
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="45" height="45" alt="Pytest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" width="45" height="45" alt="Kali Linux"/>
+</p>
+
+### 🎨 Design, Tools & Productivity
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45" alt="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="45" height="45" alt="Webflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" height="45" alt="Illustrator"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45" height="45" alt="Notion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45" alt="Slack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="45" height="45" alt="Trello"/>
+</p>
 
 </div>
 
 ---
 
+## 💼 Professional Experience
+
+### 🧠 Data Science Trainee — Ooredoo Palestine  
+*Jun 2025 – Present • Ramallah, Palestine*  
+- Develop AI-powered analytics tools that support strategic business decisions.  
+- Build and evaluate ML models for enterprise reporting and insights.  
+- Collaborate with cross-functional teams to translate data into actionable outcomes.  
+
+### 🛠️ Help Desk & Technical Support Trainee — Ooredoo Palestine  
+*May 2024 – Sep 2024 • Ramallah, Palestine*  
+- Resolved hardware, software, and network incidents across the organization.  
+- Worked within ticketing systems to track, prioritize, and close issues.  
+- Supported stable IT operations in fast-paced, multi-environment settings.  
+
+### 💻 Full-Stack Development Intern — Ooredoo Palestine  
+*Jun 2023 – Mar 2024 • Ramallah, Palestine*  
+- Built internal enterprise web solutions using the MERN stack.  
+- Implemented secure, scalable features for digital transformation systems.  
+- Contributed to code reviews, documentation, and best practices.  
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Information Technology** — *Al-Quds University* (2022 – Present)  
+- **Exchange Semester, Computer Science** — *Mälardalen University, Sweden* (Aug 2024 – Jan 2025)  
+
+---
+
+## 🏆 Certifications & Courses
+
+- **IBM Z Day 2025 – AI & Data**  
+- **IBM Z Day 2025 – Security**  
+- **Bug Bounty & Cybersecurity Bootcamp — SED**  
+- **Software Engineering & Ethics of Coding — SED**  
+- Canva – Desktop & Mobile Friendly Design  
+- Webflow – No-Code Responsive Websites  
+- PowerPoint Essentials, Professional CV & Cover Letter Writing  
+
+---
+
 ## 🌍 Languages
 
-🇵🇸 **Arabic** — Native  
-🇬🇧 **English** — Fluent  
-🇩🇪 **German** — Beginner
+- 🇵🇸 Arabic — Native  
+- 🇬🇧 English — Fluent  
+- 🇩🇪 German — Beginner  
 
 ---
 
@@ -158,9 +192,7 @@ Information Technology student at **Al-Quds University** with international expe
 
 ### 💡 "Building secure, scalable, and intelligent systems — one line of code at a time."
 
----
-
-**Open to collaborations, freelance opportunities, and innovative projects!**
+**Open to collaborations, internships, and impactful tech projects.**
 
 ⭐️ From [mohammad-al-masri](https://github.com/mohammad-al-masri)
 
